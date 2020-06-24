@@ -52,7 +52,7 @@ The report should contain the following sections:
 - **Potential cause of the bug.**
 - **Detailed scenario explaining an attack vector.**
 - **Potential damage caused by this bug.**  
-- Please submit your report at [support@eosdt.zendesk.com]()
+- Please submit your report at [support@eosdt.zendesk.com](mailto:support@eosdt.zendesk.com)
 
 ### Disclosure Policy
 
