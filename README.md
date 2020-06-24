@@ -52,18 +52,19 @@ The report should contain the following sections:
 - **Potential cause of the bug.**
 - **Detailed scenario explaining an attack vector.**
 - **Potential damage caused by this bug.**  
-</br>
 - Please submit your report at [support@eosdt.zendesk.com]()
-</br>
-- **Disclosure Policy**
+
+### Disclosure Policy
+
 By participating in the bug bounty, you are agreeing to adhere to the following rules:
-   - Let us know as soon as you discover a security risk
-   - Please provide detailed reports with reproducible steps. Failing this, the issue will not be eligible for a reward.
-   - Please be available to cooperate with Equilibrium’s engineering team to provide further information on the bug if needed.
-   - In case of duplicates, we will only award the first report that was received, provided that it can be fully reproduced.
-   - Multiple vulnerabilities caused by one underlying issue will be awarded one bounty.
-   - Social engineering (e.g. phishing, vishing, smishing) is prohibited.
-   - Bug reports that are known to us cannot be accepted.
-   - Your testing must not violate any law or compromise any data that is not yours.
-   - Judgments of submissions are at Equilibrium’s sole discretion as is the award of payments. It is possible that you may receive a lower reward than you expected or no reward at all.
-   - We can close the program at any time.
+
+- Let us know as soon as you discover a security risk
+- Please provide detailed reports with reproducible steps. Failing this, the issue will not be eligible for a reward.
+- Please be available to cooperate with Equilibrium’s engineering team to provide further information on the bug if needed.
+- In case of duplicates, we will only award the first report that was received, provided that it can be fully reproduced.
+- Multiple vulnerabilities caused by one underlying issue will be awarded one bounty.
+- Social engineering (e.g. phishing, vishing, smishing) is prohibited.
+- Bug reports that are known to us cannot be accepted.
+- Your testing must not violate any law or compromise any data that is not yours.
+- Judgments of submissions are at Equilibrium’s sole discretion as is the award of payments. It is possible that you may receive a lower reward than you expected or no reward at all.
+- We can close the program at any time.
