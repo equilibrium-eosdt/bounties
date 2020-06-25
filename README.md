@@ -67,4 +67,5 @@ By participating in the bug bounty, you are agreeing to adhere to the following 
 - Bug reports that are known to us cannot be accepted.
 - Your testing must not violate any law or compromise any data that is not yours.
 - Judgments of submissions are at Equilibrium’s sole discretion as is the award of payments. It is possible that you may receive a lower reward than you expected or no reward at all.
+- Please respect third party applications and understand that issues that are not specific to Equilibrium smart contracts are not part of the bounty program. Equilibrium reserves the right to forward details of the issue to that party without further discussion with the program participant.
 - We can close the program at any time.
